@@ -1,2 +1,2 @@
 hello  this is my frist txt for vscode，and i like this application distributed under the GPL.
-Git tracks changes.
+Git tracks changes of files.
