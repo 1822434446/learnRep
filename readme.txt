@@ -1,1 +1,1 @@
-hello  this is my frist txt for vscode，and i like this application
+hello  this is my frist txt for vscode，and i like this application distributed under the GPL.
